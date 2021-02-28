@@ -2,6 +2,8 @@
 
 <p align="center"><img src="https://github.com/joaopasantos/marvellouspongclone/blob/master/assets/imagens/screenshot.png" alt="Captura de tela do jogo."></p>
 
+Versão online: https://joaopasantos.github.io/marvellouspongclone/
+
 ### Objetivo
 Esse projeto faz parte do curso "Jogos Clássicos - Parte 1" da formação "Iniciante em Programação" da Alura.  
 O objetivo era fazer um jogo similar ao clássico jogo Pong. Seguindo os passos do curso era possível chegar em uma versão que lembrava um pouco o jogo original, mas o resultado não me satisfez tanto e eu fiz alguns ajustes e modificações pra chegar em um resultado final o mais próximo possível do original.  
