@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/joaopasantos/marvellouspongclone/blob/master/assets/imagens/screenshot.png" alt="Captura de tela do jogo."></p>
 
-Versão online: https://joaopasantos.github.io/marvellouspongclone/
+Versão online para jogar: https://joaopasantos.github.io/marvellouspongclone/
 
 ### Objetivo
 Esse projeto faz parte do curso "Jogos Clássicos - Parte 1" da formação "Iniciante em Programação" da Alura.  
