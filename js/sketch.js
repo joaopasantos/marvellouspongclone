@@ -2,8 +2,8 @@ function setup() {
   var myCanvas = createCanvas(600, 400);
   myCanvas.center();
   preload();
-  somColisao.setVolume(0.15);
-  somPonto.setVolume(0.01);
+  somColisao.setVolume(0.10);
+  somPonto.setVolume(0.05);
 }
 
 function draw() {
