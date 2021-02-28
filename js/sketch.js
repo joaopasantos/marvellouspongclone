@@ -3,7 +3,7 @@ function setup() {
   myCanvas.center();
   preload();
   somColisao.setVolume(0.15);
-  somPonto.setVolume(0.03);
+  somPonto.setVolume(0.025);
 }
 
 function draw() {
