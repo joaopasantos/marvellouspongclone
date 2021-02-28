@@ -1,6 +1,6 @@
 # marvellouspongclone
 
-<p align="center">![Captura de tela do jogo.](/assets/imagens/screenshot.png)</p>
+<p align="center"><img src=".../assets/imagens/screenshot.png" alt="Captura de tela do jogo."></p>
 
 ### Objetivo
 Esse projeto faz parte do curso "Jogos Clássicos - Parte 1" da formação "Iniciante em Programação" da Alura.
@@ -12,5 +12,5 @@ O jogo ainda tem duas coisas que não me deixaram tão satisfeito.
 - O modo como a raquete oponente se comporta. Seguindo os passos do curso o comportamento da raquete oponente ficou extremamente básico, o que já me deixou bem descontente. Nos passos finais eles tentam melhorar isso inserindo uma função que supostamente adiciona uma chance do oponente errar. Infelizmente, a função só funciona com o código original seguindo o passo a passo do curso. Por isso, tentei fazer minha própria modificação para o modo como o oponente se comporta. A versão final funciona decentemente bem, mas acho que ainda tem espaço pra melhorias.
 
 ### *Librarys*
-- (p5.js)[https://p5js.org/]
-    - (p5.collide2D)[https://github.com/bmoren/p5.collide2D]
+- <a href="https://p5js.org/" title="p5.js Homepage">p5.js</a>
+    - <a href="https://github.com/bmoren/p5.collide2D" title="p5.collide2D Github page">p5.collide2D</a>
