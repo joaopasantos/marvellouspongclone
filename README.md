@@ -1,6 +1,6 @@
 # marvellouspongclone
 
-<p align="center"><img src=".../assets/imagens/screenshot.png" alt="Captura de tela do jogo."></p>
+<p align="center"><img src="https://github.com/joaopasantos/marvellouspongclone/blob/master/assets/imagens/screenshot.png" alt="Captura de tela do jogo."></p>
 
 ### Objetivo
 Esse projeto faz parte do curso "Jogos Clássicos - Parte 1" da formação "Iniciante em Programação" da Alura.
