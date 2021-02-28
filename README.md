@@ -4,7 +4,7 @@
 
 Versão online para jogar: <a href="https://joaopasantos.github.io/marvellouspongclone/" title="marvellouspongclone Github.io page">marvellouspongclone</a> 
 
-**P.S.:** O console apresentará algumas mensagens de erro referentes à execução do jogo. Isso se dá por um problema na *library* <a href="https://p5js.org/" title="p5.js Homepage">p5.js</a>, que foi documentado nessa *thread* <a href="https://github.com/processing/p5.js-sound/issues/506#issue-672976731" title="p5.js Issue#506">p5.js Issue#506</a>. Apesar dessas mensagens o jogo e os sons funcionam corretamente.  
+**P.S.:** O console apresentará algumas mensagens de erro referentes à execução do jogo. Isso se dá por um problema na *library* <a href="https://p5js.org/" title="p5.js Homepage">p5.js</a>, que foi documentado nessa *thread* <a href="https://github.com/processing/p5.js-sound/issues/506#issue-672976731" title="p5.js Issue#506">p5.js Issue#506</a>. Apesar dessas mensagens indicando erro, o jogo está funcionando normalmente.  
 
 ## Objetivo
 Esse projeto faz parte do curso "Jogos Clássicos - Parte 1" da formação "Iniciante em Programação" da Alura.  
